@@ -5,5 +5,5 @@
    "message" : "Test",
    "date": "2017-12-08T21:11:35.925Z",
    "suppress" : false,
-   "silent" : true
+   "silent" : false
 }
