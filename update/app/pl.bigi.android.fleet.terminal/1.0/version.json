@@ -4,6 +4,6 @@
    "url" : "https://raw.githubusercontent.com/azetor/Update/master/update/app/pl.bigi.android.fleet.terminal/1.0.1/pl.bigi.android.fleet.terminal_1.0.1.apk",
    "message" : "Test",
    "date": "2017-12-08T21:11:35.925Z",
-   "suppress" : false,
+   "suppress" : true,
    "silent" : true
 }
